@@ -1,0 +1,190 @@
+[
+  {
+    "title": "What is Jev and why you should care about it for your AI-DLC",
+    "subtitle": "Jev is a new AI model type from the family of “System One models.” It isn’t an LLM, but it created lots of waves. We researched what you should know and why it’s relevant for your company.",
+    "slug": "what-is-jev-and-why-you-should-care",
+    "date": "2026-10-06",
+    "authors": [
+      "Tomas Pardinas"
+    ],
+    "tags": [
+      "ai industry trends",
+      "ai engineering",
+      "ai agents",
+      "LLM",
+      "ai coding tools"
+    ],
+    "canonical_url": "https://jellyfishresearch.substack.com/p/what-is-jev-and-why-you-should-care",
+    "image_count": 4,
+    "word_count": 994,
+    "path": "posts/2026-10-06-what-is-jev-and-why-you-should-care/index.md"
+  },
+  {
+    "title": "Agentic Coding: The Impact Gap Is Closing",
+    "subtitle": "Agents are spending more tokens, but are they getting more impact in organizations?",
+    "slug": "agentic-coding-the-impact-gap-is",
+    "date": "2026-08-17",
+    "authors": [
+      "Tomas Pardinas"
+    ],
+    "tags": [
+      "agents",
+      "ai engineering",
+      "ai agents",
+      "LLM",
+      "ai coding tools"
+    ],
+    "canonical_url": "https://jellyfishresearch.substack.com/p/agentic-coding-the-impact-gap-is",
+    "image_count": 8,
+    "word_count": 3041,
+    "path": "posts/2026-08-17-agentic-coding-the-impact-gap-is/index.md"
+  },
+  {
+    "title": "The State of AI: H1 2026",
+    "subtitle": "Exploding Spend, Diverging Returns",
+    "slug": "the-state-of-ai-h1-2026",
+    "date": "2026-06-23",
+    "authors": [
+      "Tomas Pardinas"
+    ],
+    "tags": [],
+    "canonical_url": "https://jellyfishresearch.substack.com/p/the-state-of-ai-h1-2026",
+    "image_count": 6,
+    "word_count": 2142,
+    "path": "posts/2026-06-23-the-state-of-ai-h1-2026/index.md"
+  },
+  {
+    "title": "Product Update: The Jellyfish MCP Is Now Documentation-Aware",
+    "subtitle": "Grounded answers, plus real docs for your agentic coding loops",
+    "slug": "product-update-the-jellyfish-mcp",
+    "date": "2026-06-03",
+    "authors": [
+      "Tomas Pardinas",
+      "Sophie Goldstein"
+    ],
+    "tags": [
+      "agents",
+      "mcp",
+      "ai agents",
+      "LLM"
+    ],
+    "canonical_url": "https://jellyfishresearch.substack.com/p/product-update-the-jellyfish-mcp",
+    "image_count": 2,
+    "word_count": 585,
+    "path": "posts/2026-06-03-product-update-the-jellyfish-mcp/index.md"
+  },
+  {
+    "title": "Our Journey with OpenClaw: Jellyclaw",
+    "subtitle": "At Jellyfish we at the research team are looking for ways to innovate and research new trends. Openclaw was one under our radar since it’s inception and we decided to start this journey to understand",
+    "slug": "our-journey-with-openclaw-jellyclaw",
+    "date": "2026-05-21",
+    "authors": [
+      "Josiah Bruner",
+      "Tomas Pardinas"
+    ],
+    "tags": [
+      "agents",
+      "ai agents",
+      "Openclaw"
+    ],
+    "canonical_url": "https://jellyfishresearch.substack.com/p/our-journey-with-openclaw-jellyclaw",
+    "image_count": 3,
+    "word_count": 1205,
+    "path": "posts/2026-05-21-our-journey-with-openclaw-jellyclaw/index.md"
+  },
+  {
+    "title": "AI Agent Autonomy",
+    "subtitle": "Autonomous agents are becoming more ubiquitous, with releases from the industry and users experimenting with running an AI on their computer. We asked ourselves: what does autonomy look like in AI age",
+    "slug": "ai-agent-autonomy",
+    "date": "2026-05-07",
+    "authors": [
+      "Tomas Pardinas"
+    ],
+    "tags": [
+      "ai industry trends",
+      "engineering productivity",
+      "agents",
+      "ai engineering",
+      "ai agents",
+      "LLM",
+      "ai coding tools"
+    ],
+    "canonical_url": "https://jellyfishresearch.substack.com/p/ai-agent-autonomy",
+    "image_count": 9,
+    "word_count": 2348,
+    "path": "posts/2026-05-07-ai-agent-autonomy/index.md"
+  },
+  {
+    "title": "Measuring AI Agent Concurrency",
+    "subtitle": "A research piece on AI agent concurrency using Claude Code telemetry",
+    "slug": "measuring-ai-agent-concurrency",
+    "date": "2026-03-23",
+    "authors": [
+      "Tomas Pardinas"
+    ],
+    "tags": [
+      "ai industry trends",
+      "agents",
+      "ai engineering",
+      "ai agents",
+      "LLM",
+      "ai coding tools"
+    ],
+    "canonical_url": "https://jellyfishresearch.substack.com/p/measuring-ai-agent-concurrency",
+    "image_count": 6,
+    "word_count": 2507,
+    "path": "posts/2026-03-23-measuring-ai-agent-concurrency/index.md"
+  },
+  {
+    "title": "Measuring Agentic Workflows",
+    "subtitle": "A framework to understand what and how agents work and how the new workflows are evolving",
+    "slug": "measuring-agentic-workflows",
+    "date": "2026-02-20",
+    "authors": [
+      "Tomas Pardinas"
+    ],
+    "tags": [],
+    "canonical_url": "https://jellyfishresearch.substack.com/p/measuring-agentic-workflows",
+    "image_count": 7,
+    "word_count": 1647,
+    "path": "posts/2026-02-20-measuring-agentic-workflows/index.md"
+  },
+  {
+    "title": "Measuring ROI in AI era: The language effect",
+    "subtitle": "An analysis on AI ROI, acceptance rate and programing languages",
+    "slug": "measuring-roi-in-ai-era-the-language",
+    "date": "2026-01-23",
+    "authors": [
+      "Tomas Pardinas"
+    ],
+    "tags": [
+      "ai industry trends",
+      "engineering productivity",
+      "ai engineering",
+      "LLM",
+      "ai coding tools"
+    ],
+    "canonical_url": "https://jellyfishresearch.substack.com/p/measuring-roi-in-ai-era-the-language",
+    "image_count": 4,
+    "word_count": 1177,
+    "path": "posts/2026-01-23-measuring-roi-in-ai-era-the-language/index.md"
+  },
+  {
+    "title": "Luddites versus Lovers: is AI Coding Polarized, or is There a Middle Ground?",
+    "subtitle": "Coding in the Age of AI",
+    "slug": "luddites-versus-lovers-is-ai-coding",
+    "date": "2025-12-11",
+    "authors": [
+      "Tomas Pardinas"
+    ],
+    "tags": [
+      "ai industry trends",
+      "engineering productivity",
+      "ai coding tools"
+    ],
+    "canonical_url": "https://jellyfishresearch.substack.com/p/luddites-versus-lovers-is-ai-coding",
+    "image_count": 6,
+    "word_count": 880,
+    "path": "posts/2025-12-11-luddites-versus-lovers-is-ai-coding/index.md"
+  }
+]
